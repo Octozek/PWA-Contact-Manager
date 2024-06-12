@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: pwa-mini-project
+    name: pwa-contact-manager
     env: node
     plan: free
     buildCommand: npm run build
